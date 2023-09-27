@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
-My name is Hank and I'm a software developer.
+My name is Hank and I'm a software developer with a background in embedded systems, web-server, and desktop application development.
 
-My Projects:
+Quick links to some of my projects:
 
 - [Bonsai](https://github.com/HotelSierraWhiskey/bonsai) - A tiny, persistent file manager for ARM-based embedded systems
 - [Pyskad3](https://github.com/HotelSierraWhiskey/pyskad3) - An API for the SK-AD3 card dispenser
