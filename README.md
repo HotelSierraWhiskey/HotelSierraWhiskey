@@ -9,3 +9,4 @@ Quick links to some of my projects:
 - [APDU Utils](https://github.com/HotelSierraWhiskey/apdu_utils) - A collection of DESFire APDUs
 - [Psylink](https://github.com/HotelSierraWhiskey/psylink) - A protocol + implementation for distributing prompts to locally deployed LLMs
 - [Burgerhash](https://github.com/HotelSierraWhiskey/burgerhash) -  A novel, fast 256 bit hashing algorithm. Implemented using the CPython API
+- [Insomnia](https://github.com/HotelSierraWhiskey/insomnia) - A Python API for PC/SC card reader DESFire applications 
