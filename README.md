@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Hank and I'm a software developer with a background in embedded systems, web-server, and desktop application development.
+I'm a software developer with a background in embedded systems, web-server, and desktop application development.
 
 Quick links to some of my projects:
 
